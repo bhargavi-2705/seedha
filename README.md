@@ -6,7 +6,6 @@ Kuku AI Generalist, Problem 2. An AI a person in India can talk to about three p
 
 | File | What it is |
 | --- | --- |
-| `Seedha-solution-doc.pdf` | The solution doc. Write your name, roll number, and branch on the blanks before you submit. |
 | `outputs/` | Unedited runs on the eleven test stories. |
 | `app.py` and `static/` | The page. Click a sample. No API key. |
 | `data/statutes.json` | The only quotes the tool may use. |
