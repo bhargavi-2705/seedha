@@ -1,0 +1,89 @@
+{
+  "language": "en",
+  "track": "deposit",
+  "title": "Security deposit",
+  "facts": {
+    "state": "Uttarakhand",
+    "city": "Dehradun",
+    "other_party": "Rawat",
+    "deposit": 150000,
+    "rent": 15000,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [
+      "rental agreement or lease",
+      "payment proof"
+    ],
+    "dates": [
+      "January 2025",
+      "1 October 2026"
+    ],
+    "forum": null
+  },
+  "missing": [],
+  "statutes": [
+    {
+      "id": "contract-73",
+      "act": "Indian Contract Act, 1872",
+      "citation": "Section 73",
+      "title": "Compensation for breach of contract",
+      "quote": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+      "source": "Indian Contract Act, 1872, section 73. First two sentences, as published on India Code.",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "section_numbers": [
+        "73"
+      ],
+      "in_notice": true
+    },
+    {
+      "id": "uk-tenancy-1-3",
+      "act": "Uttarakhand Tenancy Act, 2021",
+      "citation": "Section 1(3)",
+      "title": "Commencement",
+      "quote": "It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provision of this Act.",
+      "source": "Uttarakhand Tenancy Act, 2021 (Act No. 02 of 2022), section 1(3). India Code PDF.",
+      "source_url": "https://www.indiacode.nic.in/bitstream/123456789/20015/1/uk_tenancy_act%2C_2021_eng.pdf",
+      "section_numbers": [
+        "1"
+      ],
+      "in_notice": false
+    },
+    {
+      "id": "uk-tenancy-11",
+      "act": "Uttarakhand Tenancy Act, 2021",
+      "citation": "Section 11",
+      "title": "Security deposit",
+      "quote": "The security deposit to be paid by the tenant in advance shall be such as may be agreed upon between the landlord and the tenant in the tenancy agreement, which shall (a) not exceed two months rent, in case of residential premises; and (b) not exceed six months rent, in case of non-residential premises. The security deposit shall be refunded to the tenant on the date of taking over vacant possession of the premises from the tenant, after making due deduction of any liability of the tenant.",
+      "source": "Uttarakhand Tenancy Act, 2021 (Act No. 02 of 2022), section 11(1) and 11(2). India Code PDF. Footnote markers omitted; the words are the section.",
+      "source_url": "https://www.indiacode.nic.in/bitstream/123456789/20015/1/uk_tenancy_act%2C_2021_eng.pdf",
+      "section_numbers": [
+        "11"
+      ],
+      "in_notice": false
+    }
+  ],
+  "refused": [],
+  "explanation": "You are asking for a deposit back in Dehradun, Uttarakhand. That deposit is ten months of rent. Uttarakhand has a tenancy Act. Section 11 of that Act, which I have loaded, talks about two months of rent and about giving the deposit back when the landlord takes vacant possession. Section 1(3) of the same Act says it comes into force on a date the state notifies. I have not loaded that notification, and I cannot tell from a story whether your tenancy is even covered. So the notice does not rely on that cap. It relies on the agreement and on section 73 of the Indian Contract Act, 1872. A painting deduction, or any other deduction, has to come from the agreement and from bills. A flat refusal is not a bill. I cannot decide the deduction from a story.",
+  "options": [
+    "Send a notice asking for the deposit within 15 days, or a written list of deductions with bills.",
+    "Do not add a criminal allegation to that letter.",
+    "If there is no reply, ask a local lawyer which court takes a money claim, and whether you are still in time. I have not loaded the Limitation Act."
+  ],
+  "lawyer": "See a lawyer before you file. See one sooner if the amount is large, the agreement is oral, or you left more than a couple of years ago.",
+  "opponent": [
+    "Show the clause that says the deposit comes back. If it is not in the agreement, you will be asked why you believed it would.",
+    "The flat needed painting. Where are your photos from the day you handed over the keys?",
+    "You left without a handover note, so I never accepted vacant possession."
+  ],
+  "notice": "LEGAL NOTICE\n(Without prejudice. Civil demand only. No criminal allegation.)\n\nTo: Rawat\nAddress: [address]\nFrom: [your name]\nAddress: [your address]\n\nSubject: Return of the security deposit of Rs 1,50,000 for the premises at Dehradun, Uttarakhand\n\n1. I was the tenant at Dehradun, Uttarakhand. The monthly rent was Rs 15,000. I paid a security deposit of Rs 1,50,000.\n2. I left the premises on 1 October 2026. The deposit has not been returned.\n3. Any deduction has to be one the agreement allows, with bills. An open refusal is not a deduction.\n4. Section 73 of the Indian Contract Act, 1872 says that when a contract has been broken, the party who suffers is entitled to compensation for the loss which naturally arose from that breach.\n5. Pay Rs 1,50,000 within 15 days of receiving this notice, or send a written list of deductions with bills in those same 15 days. If you do neither, I will take advice on a civil claim for the money.\n\n[signature]\n[your name]\nDate: [the day you send this]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story.",
+    "The Uttarakhand deposit section is shown, and kept out of the notice, because commencement is not loaded."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}

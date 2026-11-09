@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Seedha — it will not invent a section</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,560;9..144,650&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <header class="top">
+    <div class="brand">
+      <p class="eyebrow">Kuku AI Generalist · Problem 2</p>
+      <h1>Seedha</h1>
+      <p class="lede">An AI a person in India can talk to about a deposit, a refund, or wages that stopped. It will not invent a section.</p>
+    </div>
+    <div class="lang" role="group" aria-label="Language">
+      <button type="button" data-lang="en" class="on" id="lang-en">English</button>
+      <button type="button" data-lang="hi" id="lang-hi">हिन्दी</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="desk">
+      <div class="samples" id="samples"></div>
+      <label class="story-label" for="story">What happened</label>
+      <textarea id="story" rows="8" placeholder="Tell it in the words you would use with a friend. City, amount, what you have as proof."></textarea>
+      <div class="row">
+        <button type="button" id="mic" class="ghost">Speak</button>
+        <button type="button" id="send">Read my story</button>
+      </div>
+      <p class="hint" id="hint">Click a sample if you want to see a finished case file in one step. Voice uses this browser's microphone, and it is often wrong on names.</p>
+      <div id="thread" class="thread" hidden></div>
+      <form id="more" class="more" hidden>
+        <label for="extra">Add a fact</label>
+        <input id="extra" type="text" placeholder="The landlord's name is Anita Rao. I have the UPI receipt." />
+        <button type="submit">Add it</button>
+      </form>
+    </section>
+
+    <aside class="file" id="file">
+      <p class="file-kicker">Case file</p>
+      <h2 id="file-title">Nothing cited yet</h2>
+      <p class="quiet" id="file-empty">The file fills in after a story. Sections appear only if they were retrieved for this story. A notice is a draft, not advice, and Seedha will not file it.</p>
+      <div id="file-body" hidden></div>
+    </aside>
+  </main>
+
+  <footer>
+    <p>Not a lawyer. Not a filing. If you are in danger, call 112. Women can also call 181.</p>
+  </footer>
+  <script src="/static/app.js"></script>
+</body>
+</html>

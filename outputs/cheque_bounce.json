@@ -1,0 +1,36 @@
+{
+  "language": "en",
+  "track": "out_of_scope",
+  "title": "Outside what I have loaded",
+  "facts": {
+    "state": null,
+    "city": null,
+    "other_party": null,
+    "deposit": null,
+    "rent": null,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": 500000,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [],
+    "dates": [],
+    "forum": null
+  },
+  "missing": [],
+  "statutes": [],
+  "refused": [],
+  "explanation": "A bounced cheque has its own Act and a short deadline. I have not loaded the Negotiable Instruments Act, so I will not quote a section from it. I only handle three problems: a security deposit that was not returned, a refund that was not paid, and wages that stopped. I would rather say that than invent a section for a problem I have not loaded. A real lawyer should hear a cheque case, a property case, a criminal case, or anything where the deadline may already be close.",
+  "options": [
+    "Take this to a lawyer this week if a cheque, a police case, or a court deadline is involved."
+  ],
+  "lawyer": "This one needs a lawyer. I do not have the statute loaded.",
+  "opponent": [],
+  "notice": null,
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}

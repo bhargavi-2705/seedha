@@ -1,0 +1,96 @@
+{
+  "language": "en",
+  "track": "refund",
+  "title": "Refund that did not come",
+  "facts": {
+    "state": "Rajasthan",
+    "city": "Jaipur",
+    "other_party": null,
+    "deposit": null,
+    "rent": null,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": 6000000,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [
+      "payment proof",
+      "invoice"
+    ],
+    "dates": [],
+    "forum": "State Commission"
+  },
+  "missing": [],
+  "statutes": [
+    {
+      "id": "cpa-2-7",
+      "act": "Consumer Protection Act, 2019",
+      "citation": "Section 2(7)",
+      "title": "Who is a consumer",
+      "quote": "buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment ... but does not include a person who obtains such goods for resale or for any commercial purpose; or hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised ... but does not include a person who avails of such service for any commercial purpose. ... the expression commercial purpose does not include use by a person of goods bought and used by him exclusively for the purpose of earning his livelihood, by means of self-employment; ... buys any goods and hires or avails any services includes offline or online transactions through electronic means.",
+      "source": "Consumer Protection Act, 2019, section 2(7). Ellipses mark cuts inside a long definition. The words between them are the Act's.",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/18964",
+      "section_numbers": [
+        "2"
+      ],
+      "in_notice": true
+    },
+    {
+      "id": "cpa-2-11",
+      "act": "Consumer Protection Act, 2019",
+      "citation": "Section 2(11)",
+      "title": "Deficiency",
+      "quote": "Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service and includes any act of negligence or omission or commission by such person which causes loss or injury to the consumer; and deliberate withholding of relevant information by such person to the consumer.",
+      "source": "Consumer Protection Act, 2019, section 2(11).",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/18964",
+      "section_numbers": [
+        "2"
+      ],
+      "in_notice": true
+    },
+    {
+      "id": "cpa-jurisdiction-2021",
+      "act": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021",
+      "citation": "Rules 3, 4 and 5",
+      "title": "Which commission, based on what you paid",
+      "quote": "The District Commission shall have jurisdiction where the value of the goods or services paid as consideration does not exceed fifty lakh rupees. The State Commission shall have jurisdiction where that value exceeds fifty lakh rupees but does not exceed two crore rupees. The National Commission shall have jurisdiction where that value exceeds two crore rupees.",
+      "source": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, rules 3 to 5, made under the provisos to sections 34, 47 and 58. Confirmed in the PIB release of 30 December 2021. The test is consideration paid, not the compensation you later claim.",
+      "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1786342",
+      "section_numbers": [
+        "3",
+        "4",
+        "5",
+        "34",
+        "47",
+        "58"
+      ],
+      "in_notice": true
+    }
+  ],
+  "refused": [
+    {
+      "label": "Consumer Protection (E-Commerce) Rules, 2020",
+      "reason": "Not cited. This story does not read as an online marketplace order, so those rules stay out of the notice."
+    }
+  ],
+  "explanation": "This is a refund of money you already paid, for a good or a service that was not delivered as agreed. What you paid is Rs 60,00,000. Under the 2021 jurisdiction rules I have loaded, that sits with the State Commission. The test is the consideration you paid, not a compensation number you add later. I am not using the E-Commerce Rules. This does not look like an online marketplace order. You mentioned a hospital or a surgery. This letter is only about the money that was not returned. It is not an opinion on negligence, and it is not a medical-negligence case. That needs a lawyer and a medical opinion. Section 2(11) of the Consumer Protection Act, 2019 is the definition of deficiency I have loaded: a fault in the performance of a service, including withholding information. The fact you can take forward is that the money was not returned. Whether a commission will agree is not something I can promise.",
+  "options": [
+    "Write to the other side and keep the complaint number. Ask for Rs 60,00,000 back.",
+    "For a packaged good, you can also register it on the National Consumer Helpline, 1915, or consumerhelpline.gov.in, before you file a case.",
+    "If that fails, the forum I can point at is the State Commission. Filing is on the e-Jagriti portal. I have not loaded the filing section, so the notice does not cite it."
+  ],
+  "lawyer": "See a lawyer if the other side is a hospital, the amount is large, or you are close to a deadline. I have not loaded the Limitation Act.",
+  "opponent": [
+    "The return window in the policy had closed.",
+    "The product was used, so this is not a defect.",
+    "We offered a replacement, not money. Read your own invoice before you answer that."
+  ],
+  "notice": "LEGAL NOTICE\n(Without prejudice. Civil demand only. No criminal allegation.)\n\nTo: [name]\nAddress: [address]\nFrom: [your name]\nAddress: [your address]\n\nSubject: Refund of Rs 60,00,000 paid for goods or services that were not delivered as agreed\n\n1. I paid Rs 60,00,000. The good or service was cancelled, defective, or not what was agreed. The money has not come back.\n2. Section 2(11) of the Consumer Protection Act, 2019 treats a fault in the performance of a service, and the withholding of relevant information, as a deficiency.\n3. Refund Rs 60,00,000 within 15 days. If you do not, I will take advice on a complaint before the State Commission. I am not adding a compensation figure, because the forum depends on what I paid.\n\n[signature]\n[your name]\nDate: [the day you send this]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story.",
+    "Consumer forum follows what was paid (State Commission), not a compensation claim."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}

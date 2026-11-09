@@ -1,0 +1,80 @@
+{
+  "language": "en",
+  "track": "deposit",
+  "title": "Security deposit",
+  "facts": {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "other_party": "Anita Rao",
+    "deposit": 120000,
+    "rent": 30000,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [
+      "rental agreement or lease",
+      "payment proof",
+      "photos of the premises"
+    ],
+    "dates": [
+      "15 September 2026"
+    ],
+    "forum": null
+  },
+  "missing": [],
+  "statutes": [
+    {
+      "id": "contract-73",
+      "act": "Indian Contract Act, 1872",
+      "citation": "Section 73",
+      "title": "Compensation for breach of contract",
+      "quote": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+      "source": "Indian Contract Act, 1872, section 73. First two sentences, as published on India Code.",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "section_numbers": [
+        "73"
+      ],
+      "in_notice": true
+    }
+  ],
+  "refused": [
+    {
+      "label": "A statutory deposit cap",
+      "reason": "The Model Tenancy Act is a model, not the law in Karnataka. I have not loaded the Karnataka rent Act, so your notice has no deposit cap."
+    }
+  ],
+  "explanation": "You are asking for a deposit back in Bengaluru, Karnataka. That deposit is four months of rent. I will not cite the Model Tenancy Act for Karnataka. It is a model for states to copy. It is not, by itself, the law in your city. I also have not loaded your state's rent Act, so I will not quote a deposit cap from memory. People repeat a two-month figure online. If I cannot point at the section that applies to you, it does not go in the letter. What I can stand behind is the agreement and section 73 of the Indian Contract Act, 1872: if a contract is broken, the person who suffers can claim compensation for the loss that naturally arose from the breach. A painting deduction, or any other deduction, has to come from the agreement and from bills. A flat refusal is not a bill. I cannot decide the deduction from a story.",
+  "options": [
+    "Send a notice asking for the deposit within 15 days, or a written list of deductions with bills.",
+    "Do not add a criminal allegation to that letter.",
+    "If there is no reply, ask a local lawyer which court takes a money claim, and whether you are still in time. I have not loaded the Limitation Act."
+  ],
+  "lawyer": "See a lawyer before you file. See one sooner if the amount is large, the agreement is oral, or you left more than a couple of years ago.",
+  "opponent": [
+    "Show the clause that says the deposit comes back. If it is not in the agreement, you will be asked why you believed it would.",
+    "The flat needed painting. Where are your photos from the day you handed over the keys?",
+    "You left without a handover note, so I never accepted vacant possession."
+  ],
+  "notice": "LEGAL NOTICE\n(Without prejudice. Civil demand only. No criminal allegation.)\n\nTo: Anita Rao\nAddress: [address]\nFrom: [your name]\nAddress: [your address]\n\nSubject: Return of the security deposit of Rs 1,20,000 for the premises at Bengaluru, Karnataka\n\n1. I was the tenant at Bengaluru, Karnataka. The monthly rent was Rs 30,000. I paid a security deposit of Rs 1,20,000.\n2. I left the premises on 15 September 2026. The deposit has not been returned.\n3. Any deduction has to be one the agreement allows, with bills. An open refusal is not a deduction.\n4. Section 73 of the Indian Contract Act, 1872 says that when a contract has been broken, the party who suffers is entitled to compensation for the loss which naturally arose from that breach.\n5. Pay Rs 1,20,000 within 15 days of receiving this notice, or send a written list of deductions with bills in those same 15 days. If you do neither, I will take advice on a civil claim for the money.\n\n[signature]\n[your name]\nDate: [the day you send this]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story.",
+    "No deposit cap was cited. The Model Tenancy Act was not treated as local law."
+  ],
+  "rejected_draft": {
+    "text": "Under Section 11 of the Model Tenancy Act, 2021, the landlord cannot keep more than two months of rent, so she must return the rest at once. If she refuses, file a criminal case under Section 420 IPC for cheating and Section 406 for criminal breach of trust. Courts always order double the deposit as a penalty.",
+    "problems": [
+      "unsupported claim: \"courts always\"",
+      "unsupported claim: \"double the deposit\"",
+      "Section 11 was not retrieved for this case",
+      "Section 420 was not retrieved for this case",
+      "Section 406 was not retrieved for this case",
+      "IPC is not in the statute bank",
+      "Model Tenancy Act was not retrieved, and it is not in force as such"
+    ],
+    "note": "This is not your notice. While building Seedha I treated the Model Tenancy Act as if a Bengaluru tenant could use it, and I reached for criminal sections to make the letter sound serious. That draft is fluent and wrong. The checker below is what stops it being shown as advice. A live model, if you add a key, is held to the same check."
+  },
+  "model": "rules",
+  "llm_rejected": false
+}

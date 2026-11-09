@@ -1,0 +1,122 @@
+[
+  {
+    "id": "contract-73",
+    "act": "Indian Contract Act, 1872",
+    "citation": "Section 73",
+    "title": "Compensation for breach of contract",
+    "quote": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+    "source": "Indian Contract Act, 1872, section 73. First two sentences, as published on India Code.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+    "section_numbers": ["73"]
+  },
+  {
+    "id": "uk-tenancy-1-3",
+    "act": "Uttarakhand Tenancy Act, 2021",
+    "citation": "Section 1(3)",
+    "title": "Commencement",
+    "quote": "It shall come into force on such date as the State Government may, by notification in the Official Gazette, appoint and different dates may be appointed for different provision of this Act.",
+    "source": "Uttarakhand Tenancy Act, 2021 (Act No. 02 of 2022), section 1(3). India Code PDF.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/20015/1/uk_tenancy_act%2C_2021_eng.pdf",
+    "section_numbers": ["1"]
+  },
+  {
+    "id": "uk-tenancy-11",
+    "act": "Uttarakhand Tenancy Act, 2021",
+    "citation": "Section 11",
+    "title": "Security deposit",
+    "quote": "The security deposit to be paid by the tenant in advance shall be such as may be agreed upon between the landlord and the tenant in the tenancy agreement, which shall (a) not exceed two months rent, in case of residential premises; and (b) not exceed six months rent, in case of non-residential premises. The security deposit shall be refunded to the tenant on the date of taking over vacant possession of the premises from the tenant, after making due deduction of any liability of the tenant.",
+    "source": "Uttarakhand Tenancy Act, 2021 (Act No. 02 of 2022), section 11(1) and 11(2). India Code PDF. Footnote markers omitted; the words are the section.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/20015/1/uk_tenancy_act%2C_2021_eng.pdf",
+    "section_numbers": ["11"]
+  },
+  {
+    "id": "cpa-2-7",
+    "act": "Consumer Protection Act, 2019",
+    "citation": "Section 2(7)",
+    "title": "Who is a consumer",
+    "quote": "buys any goods for a consideration which has been paid or promised or partly paid and partly promised, or under any system of deferred payment ... but does not include a person who obtains such goods for resale or for any commercial purpose; or hires or avails of any service for a consideration which has been paid or promised or partly paid and partly promised ... but does not include a person who avails of such service for any commercial purpose. ... the expression commercial purpose does not include use by a person of goods bought and used by him exclusively for the purpose of earning his livelihood, by means of self-employment; ... buys any goods and hires or avails any services includes offline or online transactions through electronic means.",
+    "source": "Consumer Protection Act, 2019, section 2(7). Ellipses mark cuts inside a long definition. The words between them are the Act's.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/18964",
+    "section_numbers": ["2"]
+  },
+  {
+    "id": "cpa-2-11",
+    "act": "Consumer Protection Act, 2019",
+    "citation": "Section 2(11)",
+    "title": "Deficiency",
+    "quote": "Deficiency means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service and includes any act of negligence or omission or commission by such person which causes loss or injury to the consumer; and deliberate withholding of relevant information by such person to the consumer.",
+    "source": "Consumer Protection Act, 2019, section 2(11).",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/18964",
+    "section_numbers": ["2"]
+  },
+  {
+    "id": "cpa-jurisdiction-2021",
+    "act": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021",
+    "citation": "Rules 3, 4 and 5",
+    "title": "Which commission, based on what you paid",
+    "quote": "The District Commission shall have jurisdiction where the value of the goods or services paid as consideration does not exceed fifty lakh rupees. The State Commission shall have jurisdiction where that value exceeds fifty lakh rupees but does not exceed two crore rupees. The National Commission shall have jurisdiction where that value exceeds two crore rupees.",
+    "source": "Consumer Protection (Jurisdiction of the District Commission, the State Commission and the National Commission) Rules, 2021, rules 3 to 5, made under the provisos to sections 34, 47 and 58. Confirmed in the PIB release of 30 December 2021. The test is consideration paid, not the compensation you later claim.",
+    "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=1786342",
+    "section_numbers": ["3", "4", "5", "34", "47", "58"]
+  },
+  {
+    "id": "ecommerce-4-5",
+    "act": "Consumer Protection (E-Commerce) Rules, 2020",
+    "citation": "Rule 4(5)",
+    "title": "Grievance officer timeline",
+    "quote": "Every e-commerce entity shall ensure that the grievance officer acknowledges the receipt of any consumer complaint within forty-eight hours and redresses the complaint within one month from the date of receipt of the complaint.",
+    "source": "Consumer Protection (E-Commerce) Rules, 2020, rule 4(5).",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15327",
+    "section_numbers": ["4"]
+  },
+  {
+    "id": "ecommerce-4-10",
+    "act": "Consumer Protection (E-Commerce) Rules, 2020",
+    "citation": "Rule 4(10)",
+    "title": "Accepted refunds",
+    "quote": "Every e-commerce entity shall effect all payments towards accepted refund requests of the consumers as prescribed by the Reserve Bank of India or any other competent authority under any law for the time being in force, within a reasonable period of time, or as prescribed under applicable laws.",
+    "source": "Consumer Protection (E-Commerce) Rules, 2020, rule 4(10). This is not a promise that every cancellation is refundable, and it is not a one-month bank-credit deadline. The one-month period is in rule 4(5), for redress of a complaint.",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15327",
+    "section_numbers": ["4"]
+  },
+  {
+    "id": "ecommerce-6-3",
+    "act": "Consumer Protection (E-Commerce) Rules, 2020",
+    "citation": "Rule 6(3)",
+    "title": "When a marketplace seller cannot refuse a refund",
+    "quote": "No seller offering goods or services through a marketplace e-commerce entity shall refuse to take back goods, or withdraw or discontinue services purchased or agreed to be purchased, or refuse to refund consideration, if paid, if such goods or services are defective, deficient or spurious, or if the goods or services are not of the characteristics or features as advertised or as agreed to, or if such goods or services are delivered late from the stated delivery schedule: Provided that in the case of late delivery, this sub-rule shall not be applied if such late delivery was due to force majeure.",
+    "source": "Consumer Protection (E-Commerce) Rules, 2020, rule 6(3).",
+    "source_url": "https://www.indiacode.nic.in/handle/123456789/15327",
+    "section_numbers": ["6"]
+  },
+  {
+    "id": "pow-1-6",
+    "act": "Payment of Wages Act, 1936",
+    "citation": "Section 1(6)",
+    "title": "Wage ceiling",
+    "quote": "This Act applies to wages payable to an employed person in respect of a wage period if such wages for that wage period do not exceed twenty four thousand rupees per month or such other higher sum which, on the basis of figures of the Consumer Expenditure Survey published by the National Sample Survey Organisation, the Central Government may, after every five years, by notification in the Official Gazette, specify.",
+    "source": "Payment of Wages Act, 1936, section 1(6), India Code. The figure twenty four thousand rupees was notified by S.O. 2806(E) dated 28 August 2017. The Act also applies only to the establishments it covers, not to every job in India.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf",
+    "section_numbers": ["1"]
+  },
+  {
+    "id": "pow-5",
+    "act": "Payment of Wages Act, 1936",
+    "citation": "Section 5",
+    "title": "When wages are due",
+    "quote": "The wages of every person employed upon or in (a) any railway, factory or industrial or other establishment upon or in which less than one thousand persons are employed, shall be paid before expiry of the seventh day, (b) any other railway, factory or industrial or other establishment, shall be paid before the expiry of the tenth day, after the last day of the wage-period in respect of which the wages are payable. Where the employment of any person is terminated by or on behalf of the employer, the wages earned by him shall be paid before the expiry of the second working day from the day on which his employment is terminated.",
+    "source": "Payment of Wages Act, 1936, section 5(1) and 5(2). Footnote markers omitted.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf",
+    "section_numbers": ["5"]
+  },
+  {
+    "id": "pow-15-2",
+    "act": "Payment of Wages Act, 1936",
+    "citation": "Section 15(2)",
+    "title": "Twelve months to apply",
+    "quote": "Every such application shall be presented within twelve months from the date on which the deduction from the wages was made or from the date on which the payment of the wages was due to be made, as the case may be. Any application may be admitted after the said period of twelve months when the applicant satisfies the authority that he had sufficient cause for not making the application within such period.",
+    "source": "Payment of Wages Act, 1936, section 15(2), provisos. A delayed-wage claim under this Act is not a casual three-year civil deadline.",
+    "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf",
+    "section_numbers": ["15"]
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "language": "en",
+  "track": "unsafe",
+  "title": "Safety first",
+  "facts": {
+    "state": "Maharashtra",
+    "city": "Pune",
+    "other_party": null,
+    "deposit": 50000,
+    "rent": null,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [],
+    "dates": [],
+    "forum": null
+  },
+  "missing": [],
+  "statutes": [],
+  "refused": [],
+  "explanation": "If you are in danger, call 112 now. Women can also call 181. I will not draft a notice while the story includes a threat of violence. A letter does not make you safe, and sending one can make an angry person angrier. When you are safe, come back with the money facts and I will draft the civil letter. If he has already hurt you or threatened to, tell the police. That is not this tool's job.",
+  "options": [
+    "Call 112 if you are unsafe right now.",
+    "Women can call 181, the women's helpline.",
+    "After you are safe, come back. I will then draft a civil notice and still will not add a criminal threat to it."
+  ],
+  "lawyer": "See a lawyer, or the police, before you send anyone a letter about this.",
+  "opponent": [],
+  "notice": null,
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}

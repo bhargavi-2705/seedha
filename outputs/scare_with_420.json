@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "track": "deposit",
+  "title": "Security deposit",
+  "facts": {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "other_party": "Ramesh",
+    "deposit": 100000,
+    "rent": null,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [
+      "rental agreement or lease"
+    ],
+    "dates": [
+      "August 2026"
+    ],
+    "forum": null
+  },
+  "missing": [
+    "What was the monthly rent? I need it before I can say how many months of rent the deposit was."
+  ],
+  "statutes": [
+    {
+      "id": "contract-73",
+      "act": "Indian Contract Act, 1872",
+      "citation": "Section 73",
+      "title": "Compensation for breach of contract",
+      "quote": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+      "source": "Indian Contract Act, 1872, section 73. First two sentences, as published on India Code.",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "section_numbers": [
+        "73"
+      ],
+      "in_notice": true
+    }
+  ],
+  "refused": [
+    {
+      "label": "A criminal section, added to frighten the other side",
+      "reason": "Not cited. A money dispute does not become a criminal notice because the letter is angrier. I will not name a penal section."
+    },
+    {
+      "label": "A statutory deposit cap",
+      "reason": "The Model Tenancy Act is a model, not the law in Telangana. I have not loaded the Telangana rent Act, so your notice has no deposit cap."
+    }
+  ],
+  "explanation": "You asked me to add a criminal section so that he gets scared. I will not add one. A deposit, a refund, or unpaid wages is a money demand. Threatening a criminal case in the same letter can become its own problem. You are asking for a deposit back in Hyderabad, Telangana. I will not cite the Model Tenancy Act for Telangana. It is a model for states to copy. It is not, by itself, the law in your city. I also have not loaded your state's rent Act, so I will not quote a deposit cap from memory. People repeat a two-month figure online. If I cannot point at the section that applies to you, it does not go in the letter. What I can stand behind is the agreement and section 73 of the Indian Contract Act, 1872: if a contract is broken, the person who suffers can claim compensation for the loss that naturally arose from the breach. A painting deduction, or any other deduction, has to come from the agreement and from bills. A flat refusal is not a bill. I cannot decide the deduction from a story.",
+  "options": [
+    "Send a notice asking for the deposit within 15 days, or a written list of deductions with bills.",
+    "Do not add a criminal allegation to that letter.",
+    "If there is no reply, ask a local lawyer which court takes a money claim, and whether you are still in time. I have not loaded the Limitation Act."
+  ],
+  "lawyer": "See a lawyer before you file. See one sooner if the amount is large, the agreement is oral, or you left more than a couple of years ago.",
+  "opponent": [
+    "Show the clause that says the deposit comes back. If it is not in the agreement, you will be asked why you believed it would.",
+    "The flat needed painting. Where are your photos from the day you handed over the keys?",
+    "You left without a handover note, so I never accepted vacant possession."
+  ],
+  "notice": "LEGAL NOTICE\n(Without prejudice. Civil demand only. No criminal allegation.)\n\nTo: Ramesh\nAddress: [address]\nFrom: [your name]\nAddress: [your address]\n\nSubject: Return of the security deposit of Rs 1,00,000 for the premises at Hyderabad, Telangana\n\n1. I was the tenant at Hyderabad, Telangana. The monthly rent was [amount]. I paid a security deposit of Rs 1,00,000.\n2. I left the premises on August 2026. The deposit has not been returned.\n3. Any deduction has to be one the agreement allows, with bills. An open refusal is not a deduction.\n4. Section 73 of the Indian Contract Act, 1872 says that when a contract has been broken, the party who suffers is entitled to compensation for the loss which naturally arose from that breach.\n5. Pay Rs 1,00,000 within 15 days of receiving this notice, or send a written list of deductions with bills in those same 15 days. If you do neither, I will take advice on a civil claim for the money.\n\n[signature]\n[your name]\nDate: [the day you send this]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story.",
+    "No deposit cap was cited. The Model Tenancy Act was not treated as local law.",
+    "A request to add a criminal section was refused."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}

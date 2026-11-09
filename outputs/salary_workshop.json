@@ -1,0 +1,89 @@
+{
+  "language": "en",
+  "track": "salary",
+  "title": "Wages that stopped",
+  "facts": {
+    "state": "Punjab",
+    "city": "Ludhiana",
+    "other_party": null,
+    "deposit": null,
+    "rent": null,
+    "wages": 18000,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": 3,
+    "headcount": 40,
+    "proofs": [
+      "appointment or offer letter",
+      "attendance record"
+    ],
+    "dates": [
+      "December 2025"
+    ],
+    "forum": null
+  },
+  "missing": [
+    "What is the employer's legal name?"
+  ],
+  "statutes": [
+    {
+      "id": "pow-1-6",
+      "act": "Payment of Wages Act, 1936",
+      "citation": "Section 1(6)",
+      "title": "Wage ceiling",
+      "quote": "This Act applies to wages payable to an employed person in respect of a wage period if such wages for that wage period do not exceed twenty four thousand rupees per month or such other higher sum which, on the basis of figures of the Consumer Expenditure Survey published by the National Sample Survey Organisation, the Central Government may, after every five years, by notification in the Official Gazette, specify.",
+      "source": "Payment of Wages Act, 1936, section 1(6), India Code. The figure twenty four thousand rupees was notified by S.O. 2806(E) dated 28 August 2017. The Act also applies only to the establishments it covers, not to every job in India.",
+      "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf",
+      "section_numbers": [
+        "1"
+      ],
+      "in_notice": true
+    },
+    {
+      "id": "pow-5",
+      "act": "Payment of Wages Act, 1936",
+      "citation": "Section 5",
+      "title": "When wages are due",
+      "quote": "The wages of every person employed upon or in (a) any railway, factory or industrial or other establishment upon or in which less than one thousand persons are employed, shall be paid before expiry of the seventh day, (b) any other railway, factory or industrial or other establishment, shall be paid before the expiry of the tenth day, after the last day of the wage-period in respect of which the wages are payable. Where the employment of any person is terminated by or on behalf of the employer, the wages earned by him shall be paid before the expiry of the second working day from the day on which his employment is terminated.",
+      "source": "Payment of Wages Act, 1936, section 5(1) and 5(2). Footnote markers omitted.",
+      "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf",
+      "section_numbers": [
+        "5"
+      ],
+      "in_notice": true
+    },
+    {
+      "id": "pow-15-2",
+      "act": "Payment of Wages Act, 1936",
+      "citation": "Section 15(2)",
+      "title": "Twelve months to apply",
+      "quote": "Every such application shall be presented within twelve months from the date on which the deduction from the wages was made or from the date on which the payment of the wages was due to be made, as the case may be. Any application may be admitted after the said period of twelve months when the applicant satisfies the authority that he had sufficient cause for not making the application within such period.",
+      "source": "Payment of Wages Act, 1936, section 15(2), provisos. A delayed-wage claim under this Act is not a casual three-year civil deadline.",
+      "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf",
+      "section_numbers": [
+        "15"
+      ],
+      "in_notice": true
+    }
+  ],
+  "refused": [],
+  "explanation": "This is unpaid wages. On the numbers I have, the unpaid total is Rs 54,000. Your in-hand figure of Rs 18,000 does not exceed Rs 24,000 a month, which is the ceiling in section 1(6) of the Payment of Wages Act, 1936, as I have it (notified at that figure in 2017). If the Act applies to this job, section 5 is the time of payment, and section 15(2) gives twelve months from the date the wages were due to apply to the authority, unless that authority accepts a late reason. You said about 40 people work there. If that is the establishment the Act covers, wages were due before the seventh day after the wage period, not the other one. I cannot tell from a story whether a workshop or a factory is actually covered. The notice says 'if the Act applies', and a lawyer or the labour office should confirm it before you rely on it.",
+  "options": [
+    "Send a notice that names the months and the in-hand amount, and give them 15 days.",
+    "Keep pay slips, the appointment letter, and the bank entries together. Do not hand over the only copies.",
+    "If the wage Act might apply, do not wait a year. Section 15(2) is twelve months from when the wages were due, and the excuse for being late is not automatic."
+  ],
+  "lawyer": "See a lawyer before you file, and immediately if you were dismissed, if the amount includes bonus or gratuity, or if the twelve-month window may already have closed.",
+  "opponent": [
+    "You stopped coming to work, so nothing is due.",
+    "You signed a full and final settlement. Bring it, or say clearly that you never signed one.",
+    "This workplace is not an establishment the wage law covers. That is a question for the labour office, not a sentence I will pretend to settle."
+  ],
+  "notice": "LEGAL NOTICE\n(Without prejudice. Civil demand only. No criminal allegation.)\n\nTo: [name]\nAddress: [address]\nFrom: [your name]\nAddress: [your address]\n\nSubject: Unpaid wages of Rs 54,000\n\n1. My in-hand wage is Rs 18,000 a month. The unpaid period is 3 months.\n2. The wages have not been paid. I have not signed a full and final settlement. If you say I have, send a copy.\n3. If the Payment of Wages Act, 1936 applies to this employment, section 5 required payment before the seventh day after the wage period (or before the second working day after termination), and section 15(2) gives twelve months from the due date to apply, unless the authority accepts a sufficient cause for delay. Section 1(6) is why I am willing to name that Act: the in-hand wages I was given do not exceed twenty four thousand rupees a month. If the Act does not cover this establishment, ignore this paragraph and treat the demand as a contract claim, to be checked by a lawyer.\n4. Pay Rs 54,000 within 15 days of receiving this notice. If you do not, I will take advice on the right authority. This is not a criminal complaint.\n\n[signature]\n[your name]\nDate: [the day you send this]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}

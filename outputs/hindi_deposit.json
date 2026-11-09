@@ -1,0 +1,82 @@
+{
+  "language": "hi",
+  "track": "deposit",
+  "title": "Security deposit",
+  "facts": {
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "other_party": null,
+    "deposit": 80000,
+    "rent": null,
+    "wages": null,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [
+      "rental agreement or lease",
+      "payment proof"
+    ],
+    "dates": [
+      "मार्च 2026"
+    ],
+    "forum": null
+  },
+  "missing": [
+    "What was the monthly rent? I need it before I can say how many months of rent the deposit was.",
+    "What is the landlord's name, as it should appear on the notice?"
+  ],
+  "statutes": [
+    {
+      "id": "contract-73",
+      "act": "Indian Contract Act, 1872",
+      "citation": "Section 73",
+      "title": "Compensation for breach of contract",
+      "quote": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+      "source": "Indian Contract Act, 1872, section 73. First two sentences, as published on India Code.",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "section_numbers": [
+        "73"
+      ],
+      "in_notice": true
+    }
+  ],
+  "refused": [
+    {
+      "label": "A statutory deposit cap",
+      "reason": "The Model Tenancy Act is a model, not the law in Karnataka. I have not loaded the Karnataka rent Act, so your notice has no deposit cap."
+    }
+  ],
+  "explanation": "आप Bengaluru, Karnataka में जमानत वापस माँग रहे हैं. मैं Model Tenancy Act को आपके राज्य का कानून नहीं मानता. वह एक मॉडल है. आपके राज्य का किराया कानून मेरे पास लोड नहीं है, इसलिए मैं जमानत की कोई सीमा याद से नहीं लिखूँगा. नोटिस समझौते और Indian Contract Act, 1872 की धारा 73 पर टिका है: अनुबंध टूटे तो हुए नुकसान का मुआवजा माँगा जा सकता है. पेंटिंग का कटना तभी जब समझौता और बिल दोनों हों.",
+  "options": [
+    "Send a notice asking for the deposit within 15 days, or a written list of deductions with bills.",
+    "Do not add a criminal allegation to that letter.",
+    "If there is no reply, ask a local lawyer which court takes a money claim, and whether you are still in time. I have not loaded the Limitation Act."
+  ],
+  "lawyer": "See a lawyer before you file. See one sooner if the amount is large, the agreement is oral, or you left more than a couple of years ago.",
+  "opponent": [
+    "Show the clause that says the deposit comes back. If it is not in the agreement, you will be asked why you believed it would.",
+    "The flat needed painting. Where are your photos from the day you handed over the keys?",
+    "You left without a handover note, so I never accepted vacant possession."
+  ],
+  "notice": "कानूनी नोटिस\n(बिना पक्षपात. केवल सिविल माँग. कोई आपराधिक आरोप नहीं.)\n\nप्रति: [नाम]\nपता: [पता]\nप्रेषक: [आपका नाम]\n\nविषय: Bengaluru, Karnataka के मकान की जमानत Rs 80,000 लौटाना\n\n1. मैं Bengaluru, Karnataka में किरायेदार था/थी. मासिक किराया [amount] था. जमानत Rs 80,000 दी थी.\n2. मैंने मार्च 2026 को घर छोड़ा. जमानत नहीं लौटी. कटौती तभी मानी जाएगी जब समझौते में हो और बिल हों.\n3. Indian Contract Act, 1872 की धारा 73 के अनुसार टूटे अनुबंध पर हुए स्वाभाविक नुकसान का मुआवजा माँगा जा सकता है.\n4. यह नोटिस मिलने के 15 दिनों में Rs 80,000 लौटाएँ, या बिलों के साथ कटौती की सूची भेजें.\n\n[हस्ताक्षर]\n[आपका नाम]\nतारीख: [जिस दिन भेजें]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.\n\nयह मसौदा है. Seedha वकील नहीं है और यह पत्र दाखिल नहीं करता. भेजने से पहले अपने शहर के वकील को दिखाएँ. कानून का हवाला अंग्रेज़ी मूल से है.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story.",
+    "No deposit cap was cited. The Model Tenancy Act was not treated as local law."
+  ],
+  "rejected_draft": {
+    "text": "Under Section 11 of the Model Tenancy Act, 2021, the landlord cannot keep more than two months of rent, so she must return the rest at once. If she refuses, file a criminal case under Section 420 IPC for cheating and Section 406 for criminal breach of trust. Courts always order double the deposit as a penalty.",
+    "problems": [
+      "unsupported claim: \"courts always\"",
+      "unsupported claim: \"double the deposit\"",
+      "Section 11 was not retrieved for this case",
+      "Section 420 was not retrieved for this case",
+      "Section 406 was not retrieved for this case",
+      "IPC is not in the statute bank",
+      "Model Tenancy Act was not retrieved, and it is not in force as such"
+    ],
+    "note": "This is not your notice. While building Seedha I treated the Model Tenancy Act as if a Bengaluru tenant could use it, and I reached for criminal sections to make the letter sound serious. That draft is fluent and wrong. The checker below is what stops it being shown as advice. A live model, if you add a key, is held to the same check."
+  },
+  "model": "rules",
+  "llm_rejected": false
+}

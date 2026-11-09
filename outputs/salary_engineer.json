@@ -1,0 +1,73 @@
+{
+  "language": "en",
+  "track": "salary",
+  "title": "Wages that stopped",
+  "facts": {
+    "state": "Telangana",
+    "city": "Hyderabad",
+    "other_party": null,
+    "deposit": null,
+    "rent": null,
+    "wages": 80000,
+    "ctc_ignored": null,
+    "consideration": null,
+    "unpaid_months": null,
+    "headcount": null,
+    "proofs": [
+      "payment proof",
+      "chat or email screenshots",
+      "appointment or offer letter"
+    ],
+    "dates": [
+      "July 2026"
+    ],
+    "forum": null
+  },
+  "missing": [
+    "Which months are unpaid? 'Since July' is not a number of months.",
+    "What is the employer's legal name?"
+  ],
+  "statutes": [
+    {
+      "id": "contract-73",
+      "act": "Indian Contract Act, 1872",
+      "citation": "Section 73",
+      "title": "Compensation for breach of contract",
+      "quote": "When a contract has been broken, the party who suffers by such breach is entitled to receive, from the party who has broken the contract, compensation for any loss or damage caused to him thereby, which naturally arose in the usual course of things from such breach, or which the parties knew, when they made the contract, to be likely to result from the breach of it. Such compensation is not to be given for any remote and indirect loss or damage sustained by reason of the breach.",
+      "source": "Indian Contract Act, 1872, section 73. First two sentences, as published on India Code.",
+      "source_url": "https://www.indiacode.nic.in/handle/123456789/2187",
+      "section_numbers": [
+        "73"
+      ],
+      "in_notice": true
+    }
+  ],
+  "refused": [
+    {
+      "label": "Payment of Wages Act, 1936",
+      "reason": "Not used. Section 1(6) in the copy I hold applies where wages for the wage period do not exceed Rs 24,000 a month. The in-hand figure here is higher, so sections 5 and 15 do not go in the notice either.",
+      "quote": "This Act applies to wages payable to an employed person in respect of a wage period if such wages for that wage period do not exceed twenty four thousand rupees per month or such other higher sum which, on the basis of figures of the Consumer Expenditure Survey published by the National Sample Survey Organisation, the Central Government may, after every five years, by notification in the Official Gazette, specify.",
+      "source": "Payment of Wages Act, 1936, section 1(6), India Code. The figure twenty four thousand rupees was notified by S.O. 2806(E) dated 28 August 2017. The Act also applies only to the establishments it covers, not to every job in India.",
+      "source_url": "https://www.indiacode.nic.in/bitstream/123456789/8324/1/payment_of_wages_act_1936.pdf"
+    }
+  ],
+  "explanation": "This is unpaid wages. Your figure of Rs 80,000 is above Rs 24,000 a month. That is the ceiling in the copy of section 1(6) I hold, so I will not use the Payment of Wages Act for you. I have not loaded the Industrial Disputes Act. An engineer or a manager is often outside the labour-court route. The notice uses the appointment contract and section 73 of the Indian Contract Act, 1872. A lawyer should pick the forum.",
+  "options": [
+    "Send a contract notice for the unpaid salary. Do not describe it as a Payment of Wages Act claim.",
+    "Ask a lawyer whether you are a workman at all before you pick a labour court. I have not loaded that test."
+  ],
+  "lawyer": "See a lawyer before you file, and immediately if you were dismissed, if the amount includes bonus or gratuity, or if the twelve-month window may already have closed.",
+  "opponent": [
+    "You stopped coming to work, so nothing is due.",
+    "You signed a full and final settlement. Bring it, or say clearly that you never signed one.",
+    "This workplace is not an establishment the wage law covers. That is a question for the labour office, not a sentence I will pretend to settle."
+  ],
+  "notice": "LEGAL NOTICE\n(Without prejudice. Civil demand only. No criminal allegation.)\n\nTo: [name]\nAddress: [address]\nFrom: [your name]\nAddress: [your address]\n\nSubject: Unpaid wages of Rs 80,000\n\n1. My in-hand wage is Rs 80,000 a month. The unpaid period is [the unpaid months].\n2. The wages have not been paid. I have not signed a full and final settlement. If you say I have, send a copy.\n3. I am not using the Payment of Wages Act. The in-hand figure I was given is above the ceiling in the copy of that Act I hold.\n4. Unpaid salary is a breach of the appointment contract. Section 73 of the Indian Contract Act, 1872 says the party who suffers by a breach is entitled to compensation for the loss which naturally arose from it.\n5. Pay [the unpaid total] within 15 days of receiving this notice. If you do not, I will take advice on the right authority. This is not a criminal complaint.\n\n[signature]\n[your name]\nDate: [the day you send this]\n\nThis is a draft for you to read. Seedha is not a lawyer, does not represent you, and will not file this. Have a person who practises in your city read it before you send it, especially on time limits and the right court or authority.",
+  "checks": [
+    "Citations in the notice were checked against the sections retrieved for this story.",
+    "Payment of Wages Act was opened and then not used, because the in-hand figure is over Rs 24,000."
+  ],
+  "rejected_draft": null,
+  "model": "rules",
+  "llm_rejected": false
+}
